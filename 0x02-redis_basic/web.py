@@ -2,7 +2,7 @@
 '''A module with tools for request caching and tracking.
 '''
 import redis
-import requests
+import requests # type: ignore
 from functools import wraps
 from typing import Callable
 
