@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+'''A module for using the Redis data storage.
+'''
 import redis
 import uuid
 from typing import Callable, Union

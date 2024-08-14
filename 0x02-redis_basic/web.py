@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''A module for using the Redis data storage.
+'''A module with tools for request caching and tracking.
 '''
 import requests
 import redis
